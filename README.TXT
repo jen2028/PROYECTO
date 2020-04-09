@@ -9,10 +9,6 @@ Windows
 
 Windows 10 (8u51 y superiores)
 Windows 8.x (escritorio)
-Windows 7 SP1
-Windows Vista SP2
-Windows Server 2008 R2 SP1 (64 bits)
-Windows Server 2012 y 2012 R2 (64 bits)
 RAM: 128 MB
 Espacio en disco: 124 MB para JRE; 2 MB para Java Update
 Procesador: Mínimo Pentium 2 a 266 MHz
@@ -49,10 +45,12 @@ Instrucciones de uso
 ========================
 Uso Ejecutable
 
-1- Haz doble click en ProjectoJuego.jar
-2- Selecciona la dificultad del juego
-3- Disfruta el juego
-4- Para fnalizar solo cierra la ventana
+1- Haz doble click en el instalador Setup.exe
+2- Leer las instrucciones
+3- Seleccionar donde estará guardado el programa
+4- Instalar y finalizar
+5- Al terminar la instalacion puede marcar la opcion de abrir programa o si no buscarlo en la carpeta respectiva
+6-Si el ejecutable .exe no funciona, ir a carpeta donde esta instalado el programa y abrir el .jar , el usuario debe tener Java instalado en su computador
 
 Uso por Netbeans
 
